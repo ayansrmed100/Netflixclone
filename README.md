@@ -1,1 +1,1 @@
-# This is netflix homepage clone
+# This is a netflix homepage clone
